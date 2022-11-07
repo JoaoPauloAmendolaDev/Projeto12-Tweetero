@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "a5cc47f3-4b93-4d2d-aae7-35e932d714b1",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:5000/tweets",
+    "url": "localhost:5000/tweets",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-11-05T18:55:54.242Z",
+    "modified": "2022-11-05T18:55:54.306Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "7feefc0e-e32e-4a3a-8508-810511fd2c99",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:5000",
+    "url": "localhost:5000/sign-up",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2022-11-05T19:19:28.515Z",
+    "modified": "2022-11-05T19:24:41.034Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "[{\"username\": \"joao\",\"avatar\":\"123\"}]",
+      "form": []
+    },
+    "tests": []
+  }
+]
